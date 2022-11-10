@@ -48,7 +48,7 @@ const Profile = () => {
                      <h4>Search by GitHub<i className="fab fa-github"></i> username</h4>
                   </div>
                   <div className="card-body">
-                     <p>Example: siddique000, lahin31, zonayedpca</p>
+                     <p>Example: siddiqueco, lahin31, zonayedpca</p>
                      <form onSubmit={handleSubmit}>
                         <div className="form-group">
                            <label htmlFor="username"><b>Username</b></label>
